@@ -1,0 +1,22 @@
+{
+  "name": "multiplynumberbytwo",
+  "version": "1.0.0",
+  "description": "multiplyByTwo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarnava80/multiplyByTwo.git"
+  },
+  "keywords": [
+    "multiply"
+  ],
+  "author": "Edgar Nava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarnava80/multiplyByTwo/issues"
+  },
+  "homepage": "https://github.com/edgarnava80/multiplyByTwo#readme"
+}
