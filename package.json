@@ -1,6 +1,6 @@
 {
   "name": "multiplynumberbytwo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "multiplyByTwo",
   "main": "index.js",
   "type": "module",
